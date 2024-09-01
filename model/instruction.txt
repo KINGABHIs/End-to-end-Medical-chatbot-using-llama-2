@@ -1,0 +1,10 @@
+## Download the Llama 2 model:
+
+llama-2-7b-chat.ggmlv3.q4_0.bin
+
+##From the following link:
+https://huggingface.co/TheBloke/Llama-2-7b-Chat-GGML/tree/main
+
+
+
+https://download.llamameta.net/*?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoid3RpMHJvc3AwbHZ2bG9zbDVidGJ6MTRyIiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZG93bmxvYWQubGxhbWFtZXRhLm5ldFwvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNTExOTEyOH19fV19&Signature=jI%7EaRTGx7Mk1y%7EoV9bM%7EtQnAUoJYNBUshf-DU6xIY%7EaRkjo3MIzY67UZSysZfs6L%7EOFdO020MJgOAYpPHBlPxDhzftp8nf4dYe7OtLfPXQxdtLB0jRHIlI0GnM9mlkUBxaky4fzPHZ-5taL4lmkcjcQ%7EUszAqSFQ5v1qahCvPjtbWvRf7O6F-oGleUq2oCdYcoFk1aEEqTzQzYh4AVj5BnBv8e4eN6ZsztDQV1my-%7EWvxo%7EU5tYiKv%7Ed-6-HMz09agYzYCpqaeGSYHdLT4O7wW0sezjnJvbDnkEcAU-AMB93w69owtKSXw9AM39JD2b3tGYVRrCb1cfDmlYm6oGbSQ__&Key-Pair-Id=K15QRJLYKIFSLZ&Download-Request-ID=3833402353571832
