@@ -12,7 +12,7 @@ from langchain.document_loaders import PyPDFLoader,DirectoryLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.prompts import PromptTemplate
 from langchain.llms import CTransformers
-
+from langchain_pinecone import PineconeVectorStore 
 from dotenv import load_dotenv
 import os
 from pinecone import Pinecone, ServerlessSpec
